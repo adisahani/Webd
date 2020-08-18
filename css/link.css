@@ -1,0 +1,24 @@
+/*ul li:first-child{
+    list-style-image:url("../img/google.png");
+  } 
+ul li:nth-child(2){
+    list-style-image:url("../img/facebook.png");
+}
+ul li:nth-child(3){
+
+}*/
+/* 'a' means anywhere */
+
+a:hover{
+    background-color: yellow;
+}
+a:active{
+    background-color: green;
+}
+a:visited{
+    background-color: grey;
+}
+
+li{
+    font: bolder 16px helvetica;
+}

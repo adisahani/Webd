@@ -1,0 +1,27 @@
+.ono li{
+    background-position: center;
+    padding:15px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: cornsilk;
+    width: 120px;
+    height: 10px;
+    list-style-type: lower-roman;
+}
+.ono{
+    background-color: cyan;
+    padding: 30px;
+    width:150px;
+
+}
+#uno li:nth-child(odd){
+    background-color:grey;
+}
+
+#uno li{
+    padding:15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: chartreuse;
+    background-color: skyblue;
+    list-style-type: square;
+}

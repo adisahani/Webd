@@ -1,0 +1,9 @@
+body{
+    background-image: url("../img/google.png");
+    background-size: 100%;
+}
+h1{
+    font-family:Helvetica, sans-serif;
+}
+
+/* always enter coreect imag format like .png or .jpg */

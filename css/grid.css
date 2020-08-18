@@ -1,0 +1,14 @@
+#container{
+    background-color: lightcoral;
+    display: grid;
+    padding: 20px;
+    grid-column-gap:10px;
+    grid-row-gap: 20px;
+    grid-template-columns:200px 200px auto;
+}
+#container > div {
+    font: 100px helvetica;
+    border-color: 15px;
+    background-color: lightblue;
+    text-align: center;
+}

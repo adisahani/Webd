@@ -1,0 +1,14 @@
+#container{
+    display: flex;
+    flex-wrap: wrap;
+}
+#container > div {
+    width: 150px;
+    height: 150px;
+    font: 100px helvetica;
+    padding: 40px;
+    border-color: 15px;
+    background-color: lightblue;
+    margin: 10px;
+    text-align: center;
+}
